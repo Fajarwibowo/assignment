@@ -1,0 +1,10 @@
+E:\fajar\Calculator\CalculatorWindowsFormsApp1\bin\Debug\CalculatorWindowsFormsApp1.exe.config
+E:\fajar\Calculator\CalculatorWindowsFormsApp1\bin\Debug\CalculatorWindowsFormsApp1.exe
+E:\fajar\Calculator\CalculatorWindowsFormsApp1\bin\Debug\CalculatorWindowsFormsApp1.pdb
+E:\fajar\Calculator\CalculatorWindowsFormsApp1\obj\Debug\CalculatorWindowsFormsApp1.csprojAssemblyReference.cache
+E:\fajar\Calculator\CalculatorWindowsFormsApp1\obj\Debug\CalculatorWindowsFormsApp1.Form1.resources
+E:\fajar\Calculator\CalculatorWindowsFormsApp1\obj\Debug\CalculatorWindowsFormsApp1.Properties.Resources.resources
+E:\fajar\Calculator\CalculatorWindowsFormsApp1\obj\Debug\CalculatorWindowsFormsApp1.csproj.GenerateResource.cache
+E:\fajar\Calculator\CalculatorWindowsFormsApp1\obj\Debug\CalculatorWindowsFormsApp1.csproj.CoreCompileInputs.cache
+E:\fajar\Calculator\CalculatorWindowsFormsApp1\obj\Debug\CalculatorWindowsFormsApp1.exe
+E:\fajar\Calculator\CalculatorWindowsFormsApp1\obj\Debug\CalculatorWindowsFormsApp1.pdb
